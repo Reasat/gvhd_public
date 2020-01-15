@@ -1,2 +1,2 @@
 # gvhd_public
-Place to my PhD stuff
+Place to put my PhD stuff
