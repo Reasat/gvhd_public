@@ -1,2 +1,2 @@
 # gvhd_public
-GVHD related results.
+Results related to lesion segmentation from skin in GVHD patients
